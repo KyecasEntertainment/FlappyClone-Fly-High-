@@ -27,4 +27,4 @@ It focuses on core mechanics like input handling, gravity physics, collision det
 ## 🚀 How to Play
 1. Clone this repo  
    ```bash
-   git clone 
+   git clone https://github.com/KyecasEntertainment/FlappyClone-Fly-High-.git
