@@ -20,7 +20,7 @@ It focuses on core mechanics like input handling, gravity physics, collision det
 |----------|------------------|
 | ![Gameplay Screenshot](images/gameplay.png) | ![Game Over Screenshot](images/gameover.png) |
 
-*(Replace `images/gameplay.png` and `images/gameover.png` with your own image paths in the repo.)*
+*(Replace the image paths with your actual screenshots inside the `images/` folder.)*
 
 ---
 
@@ -28,3 +28,30 @@ It focuses on core mechanics like input handling, gravity physics, collision det
 1. Clone this repo  
    ```bash
    git clone https://github.com/KyecasEntertainment/FlappyClone-Fly-High-.git
+   ```
+   Open in **Unity (or your chosen engine)** and press **Play**.  
+
+2. **Or** download the prebuilt executable:  
+   👉 [Download `.exe` here](https://github.com/KyecasEntertainment/FlappyClone-Fly-High-/releases)  
+
+---
+
+## 🛠️ Built With
+- **Unity** (C#) – Game engine  
+- **Custom Assets** – Placeholder graphics and sounds  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+⚠️ **Disclaimer:** This is an educational project inspired by *Flappy Bird*.  
+All code is original, and all assets are placeholders or custom-made.  
+This project is **not affiliated with or endorsed by the original creators of Flappy Bird**.  
+
+---
+
+## 🌟 Future Plans
+- Add different themes (night/day mode)  
+- Leaderboard system  
+
