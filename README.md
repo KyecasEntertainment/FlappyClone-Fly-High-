@@ -20,7 +20,6 @@ It focuses on core mechanics like input handling, gravity physics, collision det
 |----------|------------------|
 | ![Gameplay Screenshot](images/gameplay.png) | ![Game Over Screenshot](images/gameover.png) |
 
-*(Replace the image paths with your actual screenshots inside the `images/` folder.)*
 
 ---
 
