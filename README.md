@@ -36,8 +36,8 @@ It focuses on core mechanics like input handling, gravity physics, collision det
 ---
 
 ## 🛠️ Built With
-- **Unity** (C#) – Game engine  
-- **Custom Assets** – Placeholder graphics and sounds  
+- **Unity** (C#) – Game engine
+- **Aseprite** - Pixel Art  
 
 ---
 
@@ -51,6 +51,7 @@ This project is **not affiliated with or endorsed by the original creators of Fl
 ---
 
 ## 🌟 Future Plans
+- Sound Effects for UI and Gameplay
 - Add different themes (night/day mode)  
 - Leaderboard system  
 
